@@ -1,2 +1,1 @@
-# Planner
-规划师
+# Planner 规划师
