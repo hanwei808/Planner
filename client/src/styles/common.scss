@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  color: #2c3e50;
+  transition: color 0.5s, background-color 0.5s;
+  line-height: 1.6;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#nprogress .spinner {
+  top: 18px !important;
+}
+
+ul {
+  padding-inline-start: 20px;
+}
