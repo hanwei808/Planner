@@ -35,4 +35,4 @@ jobs:
           username: ${{ secrets.SERVER_USERNAME }}
           password: ${{ secrets.SERVER_PASSWORD }}
           source: "client/dist/*"
-          target: "/var/www/hanwei_io/default/dist"
+          target: "/var/www/hanwei_io/default"
