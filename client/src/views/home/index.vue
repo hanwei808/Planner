@@ -1,15 +1,10 @@
 <template>
   <div class="home">
     <div
-      v-for="(svg, path) in svgs"
+      v-for="(url, path) in svgs"
       :key="path"
     >
-      {{ path }}
-      <br>
-      <img
-        :src="svg"
-        alt="svg"
-      >
+      <inline-svg :src="url" />
     </div>
   </div>
 </template>
@@ -23,8 +18,7 @@ let svgs = ref<{ [key: string]: string }>({});
 
 onMounted(async () => {
   const icons = Object.keys(svgFiles).map(async (path) => {
-    const module = await svgFiles[path]();
-    svgs.value[path] = (module as { default: string }).default;
+    svgs.value[path] = new URL(path, import.meta.url).href;
   })
   await Promise.all(icons);
 });
