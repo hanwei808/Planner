@@ -108,7 +108,7 @@
         <el-menu-item index="/">
           微前端
         </el-menu-item>
-        <el-menu-item index="/JavaScript/00">
+        <el-menu-item index="/">
           低代码
         </el-menu-item>
       </el-sub-menu>
