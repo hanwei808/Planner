@@ -4,6 +4,7 @@
       v-for="(url, path) in svgs"
       :key="path"
     >
+      {{ typeof path === 'string' ? path.split('/')?.pop() : '' }}
       <inline-svg :src="url" />
     </div>
   </div>
