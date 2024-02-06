@@ -5,10 +5,10 @@
   >
     <div class="home">
       <div
-        v-for="(url, path) in svgs"
+        v-for="(_, path) in svgs"
         :key="path"
       >
-        {{ url }}
+        {{ String(path).replace('.', '/public') }}
         <h2
           :id="typeof path === 'string' ? path.split('/')?.pop()?.split('.')?.shift() : ''"
           ebook-toc-level-1=""
@@ -16,7 +16,7 @@
         >
           {{ typeof path === 'string' ? path.split('/')?.pop()?.split('.')?.shift() : '' }}
         </h2>
-        <inline-svg :src="url" />
+        <inline-svg :src="String(path).replace('.', '/public')" />
       </div>
     </div>
     <mdSidebar :navigation="navigation" />
