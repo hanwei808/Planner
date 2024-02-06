@@ -65,6 +65,54 @@
         </el-menu-item>
       </el-sub-menu>
 
+      <el-sub-menu index="TypeScript">
+        <template #title>
+          <el-icon><DataAnalysis /></el-icon>
+          <span>TypeScript</span>
+        </template>
+      </el-sub-menu>
+
+      <el-sub-menu index="NodeJS">
+        <template #title>
+          <el-icon><DataAnalysis /></el-icon>
+          <span>NodeJS</span>
+        </template>
+      </el-sub-menu>
+
+      <el-sub-menu index="Vue3">
+        <template #title>
+          <el-icon><DataAnalysis /></el-icon>
+          <span>Vue3</span>
+        </template>
+      </el-sub-menu>
+
+      <el-sub-menu index="Net">
+        <template #title>
+          <el-icon><DataAnalysis /></el-icon>
+          <span>网络安全</span>
+        </template>
+      </el-sub-menu>
+
+      <el-sub-menu index="Web">
+        <template #title>
+          <el-icon><DataAnalysis /></el-icon>
+          <span>网站架构</span>
+        </template>
+      </el-sub-menu>
+
+      <el-sub-menu index="Qu">
+        <template #title>
+          <el-icon><DataAnalysis /></el-icon>
+          <span>发展趋势</span>
+        </template>
+        <el-menu-item index="/">
+          微前端
+        </el-menu-item>
+        <el-menu-item index="/JavaScript/00">
+          低代码
+        </el-menu-item>
+      </el-sub-menu>
+
       <el-sub-menu index="88">
         <template #title>
           <el-icon><Guide /></el-icon>

@@ -23,13 +23,13 @@
               _msttexthash="6930677"
               _msthash="179"
             >
-              ITPMP
+              Web 全栈架构师
             </div><div
               class="max-w-md text-center text-xl font-normal text-token-text-secondary"
               _msttexthash="143999375"
               _msthash="180"
             >
-              信息系统项目管理专家，提供详细的指导和解答。
+              为您提供详细的指导和解答。
             </div><div class="mt-1 flex items-center gap-1 text-token-text-tertiary">
               <div
                 class="text-sm text-token-text-tertiary"
@@ -37,12 +37,12 @@
                 _msthash="181"
               >
                 由 <a
-                  href="https://itpmp.org.cn"
+                  href="https://hanwei.io"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="underline"
                   _istranslated="1"
-                >itpmp.org.cn</a> 提供
+                >hanwei.io</a> 提供
               </div>
             </div>
           </div>
