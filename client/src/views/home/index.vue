@@ -8,6 +8,7 @@
         v-for="(url, path) in svgs"
         :key="path"
       >
+        {{ url }}
         <h2
           :id="typeof path === 'string' ? path.split('/')?.pop()?.split('.')?.shift() : ''"
           ebook-toc-level-1=""
@@ -42,7 +43,7 @@ const navigation: Ref<NavigationItem[]> = ref([]);
 
 onMounted(async () => {
   const icons = Object.keys(svgFiles).map(async (path) => {
-    svgs.value[path] = new URL(path, import.meta.url).href;
+    svgs.value[path] = new URL(path.replace('.', '/public'), import.meta.url).href;
   })
   await Promise.all(icons);
   createNavigation();
