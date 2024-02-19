@@ -1,12 +1,10 @@
-import { RouteRecordRaw, createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import AppLayout from '@/layout/AppLayout.vue'
 import 'nprogress/nprogress.css'
-import permission from '@/router/modules/permission'
-import user from '@/router/modules/user'
-import chapter from '@/router/modules/chapter'
+import JavaScript from '@/router/modules/JavaScript'
 import NotFoundComponent from '@/components/NotFoundComponent.vue'
 
-const routes: RouteRecordRaw[] = [
+const routes = [
     {
         path: '/',
         component: AppLayout,
@@ -20,9 +18,6 @@ const routes: RouteRecordRaw[] = [
                     requiresAuth: false
                 }
             },
-            user,
-            permission,
-            ...chapter,
             {
                 path: '/:catchAll(.*)',
                 component: NotFoundComponent
@@ -35,7 +30,8 @@ const routes: RouteRecordRaw[] = [
                     title: "关于",
                     requiresAuth: false
                 }
-            }
+            },
+            ...JavaScript,
         ]
     }
 ]
