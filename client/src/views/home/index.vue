@@ -41,7 +41,6 @@ type NavigationItem = {
 const navigation: Ref<NavigationItem[]> = ref([]);
 
 onMounted(async () => {
-  console.log('环境变量12', import.meta.env)
   const icons = Object.keys(svgFiles).map(async (path) => {
     svgs.value[path] = new URL(path.replace('.', ''), import.meta.url).href;
   })
