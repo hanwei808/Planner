@@ -26,7 +26,7 @@
 import mdSidebar from '@/components/mdSidebar.vue';
 import { ref, Ref, onMounted } from 'vue';
 
-const svgFiles = import.meta.glob('../../../public/drawio/*.svg')
+const svgFiles = import.meta.glob('./drawio/*.svg')
 
 let svgs = ref<{ [key: string]: string }>({});
 
@@ -41,7 +41,7 @@ type NavigationItem = {
 const navigation: Ref<NavigationItem[]> = ref([]);
 
 onMounted(async () => {
-  console.log('环境变量', import.meta.env)
+  console.log('环境变量12', import.meta.env)
   const icons = Object.keys(svgFiles).map(async (path) => {
     svgs.value[path] = new URL(path.replace('.', ''), import.meta.url).href;
   })
