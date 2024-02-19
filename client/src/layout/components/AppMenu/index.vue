@@ -6,8 +6,6 @@
       background-color="#fafafa"
       class="el-menu-vertical-demo"
       default-active="2"
-      @open="handleOpen"
-      @close="handleClose"
       :collapse="$store.state.isCollapse"
       router
     >
@@ -21,48 +19,16 @@
           <el-icon><DataAnalysis /></el-icon>
           <span>JavaScript</span>
         </template>
-        <el-menu-item index="/JavaScript/00">
-          00.关键字与API
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/01">
-          01.数据类型
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/02">
-          02.运算符与控制流
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/03">
-          03.作用域和变量
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/04">
-          04.this与class与new
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/05">
-          05.call与apply与bind
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/06">
-          06.原型与原型链
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/07">
-          07.继承与扩展
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/08">
-          08.对象与数组
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/09">
-          09.拷贝与递归
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/10">
-          10.函数与闭包
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/11">
-          11.节流与防抖
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/12">
-          12.异步编程
-        </el-menu-item>
-        <el-menu-item index="/JavaScript/13">
-          13.错误与异常
-        </el-menu-item>
+        <template
+          v-for="js in JavaScript"
+          :key="js.path"
+        >
+          <el-menu-item
+            :index="js.path"
+          >
+            {{ js.name.split('/')[1] }}
+          </el-menu-item>
+        </template>
       </el-sub-menu>
 
       <el-sub-menu index="TypeScript">
@@ -145,13 +111,24 @@
       DataAnalysis,
       Guide
     } from '@element-plus/icons-vue'
-  
-    const handleOpen = (key: string, keyPath: string[]) => {
-      console.log(key, keyPath)
-    }
-    const handleClose = (key: string, keyPath: string[]) => {
-      console.log(key, keyPath)
-    }
+
+    import { ref } from 'vue'
+    const JavaScript = ref()
+
+    const jsModules = import.meta.glob('@/views/JavaScript/*.vue')
+    JavaScript.value = Object.entries(jsModules).map(([path, component]) => {
+        const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
+        return {
+            path: `/${name}`,
+            name,
+            component,
+            meta: {
+                title: name,
+                requiresAuth: false
+            }
+        }
+    })
+
   </script>
   
   <style lang="scss" scoped>
