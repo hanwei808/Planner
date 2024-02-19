@@ -8,7 +8,7 @@
         v-for="(_, path) in svgs"
         :key="path"
       >
-        {{ String(path).replace('.', '/public') }}
+        {{ String(path) }}
         <h2
           :id="typeof path === 'string' ? path.split('/')?.pop()?.split('.')?.shift() : ''"
           ebook-toc-level-1=""
@@ -16,7 +16,7 @@
         >
           {{ typeof path === 'string' ? path.split('/')?.pop()?.split('.')?.shift() : '' }}
         </h2>
-        <inline-svg :src="bs" />
+        <inline-svg :src="String(path)" />
       </div>
     </div>
     <mdSidebar :navigation="navigation" />
@@ -26,9 +26,8 @@
 <script setup lang="ts">
 import mdSidebar from '@/components/mdSidebar.vue';
 import { ref, Ref, onMounted } from 'vue';
-import bs from './drawio/itpmp.drawio.svg'
 
-const svgFiles = import.meta.glob('./drawio/*.svg')
+const svgFiles = import.meta.glob('@/views/home/drawio/*.svg', {eager: true})
 
 let svgs = ref<{ [key: string]: string }>({});
 
@@ -43,10 +42,9 @@ type NavigationItem = {
 const navigation: Ref<NavigationItem[]> = ref([]);
 
 onMounted(async () => {
-  const icons = Object.keys(svgFiles).map(async (path) => {
-    svgs.value[path] = new URL(path.replace('.', '/public'), import.meta.url).href;
-  })
-  await Promise.all(icons);
+  for (const path in svgFiles) {
+    svgs.value[path] = (svgFiles[path] as { default: string }).default;
+  }
   createNavigation();
 });
 
