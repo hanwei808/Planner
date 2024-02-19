@@ -42,12 +42,27 @@ type NavigationItem = {
 const navigation: Ref<NavigationItem[]> = ref([]);
 
 onMounted(async () => {
-  const icons = Object.keys(svgFiles).map(async (path) => {
-    svgs.value[path] = new URL(path.replace('.', '/public'), import.meta.url).href;
-  })
-  await Promise.all(icons);
+  loadModules()
   createNavigation();
 });
+
+async function loadModules() {
+  for (const path in svgFiles) {
+    let module
+
+    // 在开发模式下，svgFiles[path] 是一个函数，需要调用它来获取模块
+    if (typeof svgFiles[path] === 'function') {
+      console.log('开发模式')
+      module = await svgFiles[path]()
+    } else {
+      // 在生产模式下，svgFiles[path] 就是模块的默认导出
+      console.log('生产模式')
+      module = svgFiles[path]
+    }
+
+    svgs.value[path] = (module as { default: string }).default;
+  }
+}
 
 const createNavigation = (): void => {
   const headers = Array.from(document.querySelectorAll('h2, h3')) as HTMLElement[];
