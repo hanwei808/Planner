@@ -1,0 +1,21 @@
+.article-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+}
+@media screen and (min-width: 600px) {
+  .article-container {
+    padding-right: 50px;
+  }
+  .md-sidebar-expand {
+    padding-right: 200px;
+  }
+}
+.el-tabs {
+  width: 100%;
+  background-color: white;
+}
+.box-div {
+  width: -webkit-fill-available;
+}
