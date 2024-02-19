@@ -78,7 +78,7 @@ const handleCollapse = () => {
     .md-sidebar {
         display: block;
         position: fixed;
-        top: 57px;
+        top: 107px;
         right: 10px;
         height: -webkit-fill-available;
         background-color: #fff;

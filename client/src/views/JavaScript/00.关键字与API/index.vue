@@ -1,32 +1,32 @@
 <template>
-  <div
-    class="article-container"
-    :class="{'md-sidebar-expand': !$store.state.isMdCollapse}"
-  >
-    <mdSidebar :navigation="navigation" />
-    <div class="box-div">
-      <el-affix
-        :offset="60"
-        target=".box-div"
-        style="width: 100%"
+  <div>
+    <el-affix
+      :offset="58"
+      style="width: 100%"
+    >
+      <el-tabs
+        v-model="activeName"
+        class="demo-tabs"
+        @tab-click="handleClick"
       >
-        <el-tabs
-          v-model="activeName"
-          class="demo-tabs"
-          @tab-click="handleClick"
-        >
-          <el-tab-pane
-            label="文档"
-            name="first"
-          />
-          <el-tab-pane
-            label="流程图"
-            name="second"
-          >
-            Config
-          </el-tab-pane>
-        </el-tabs>
-      </el-affix>
+        <el-tab-pane
+          label="文档"
+          name="first"
+        />
+        <el-tab-pane
+          label="流程图"
+          name="second"
+        />
+      </el-tabs>
+    </el-affix>
+    <mdSidebar
+      :navigation="navigation"
+      v-show="activeName === 'first'"
+    />
+    <div
+      class="article-container"
+      :class="{'md-sidebar-expand': !$store.state.isMdCollapse}"
+    >
       <div
         class="crossnote markdown-preview"
         v-show="activeName === 'first'"
@@ -577,6 +577,9 @@ history<span class="token punctuation">.</span><span class="token method functio
         </ul>
         <p>这些 API 提供了丰富的功能集，允许开发者创建复杂的应用程序。需要注意的是，不同的浏览器可能会有不同程度的支持，因此在开发时需要考虑兼容性问题。</p>
       </div>
+      <div v-show="activeName === 'second'">
+        <inline-svg :src="svg" />
+      </div>
     </div>
   </div>
 </template>
@@ -587,6 +590,8 @@ import mdSidebar from '@/components/mdSidebar.vue';
 import type { TabsPaneContext } from 'element-plus'
 
 const activeName = ref('first')
+
+import svg from './index.drawio.svg'
 
 const handleClick = (tab: TabsPaneContext, event: Event) => {
   console.log(tab, event)
@@ -602,7 +607,7 @@ type NavigationItem = {
 // Define the type for the navigation ref
 const navigation: Ref<NavigationItem[]> = ref([]);
 
-onMounted(() => {
+onMounted(async () => {
   createNavigation();
 });
 

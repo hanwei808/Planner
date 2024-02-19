@@ -115,7 +115,7 @@
     import { ref } from 'vue'
     const JavaScript = ref()
 
-    const jsModules = import.meta.glob('@/views/JavaScript/*.vue')
+    const jsModules = import.meta.glob('@/views/JavaScript/*/*.vue')
     JavaScript.value = Object.entries(jsModules).map(([path, component]) => {
         const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
         return {
