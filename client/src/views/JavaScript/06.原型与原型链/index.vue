@@ -415,6 +415,17 @@ query<span class="token punctuation">.</span><span class="token method function 
       </div>
       <div v-show="activeName === 'second'">
         <inline-svg :src="svg" />
+        <br>
+        <br>
+        <Code
+          v-model="fetchTxtFileData"
+          :style="{width: '80vw'}"
+        />
+        <br>
+        <Code
+          v-model="fetchTxtFileData2"
+          :style="{width: '80vw'}"
+        />
       </div>
     </div>
   </div>
@@ -424,10 +435,13 @@ query<span class="token punctuation">.</span><span class="token method function 
 import { onMounted, ref, Ref } from 'vue';
 import mdSidebar from '@/components/mdSidebar.vue';
 import type { TabsPaneContext } from 'element-plus'
+import Code  from '@/components/code.vue'
+import svg from './index.drawio.svg'
 
 const activeName = ref('first')
+const fetchTxtFileData = ref('')
+const fetchTxtFileData2 = ref('')
 
-import svg from './index.drawio.svg'
 
 const handleClick = (tab: TabsPaneContext, event: Event) => {
   console.log(tab, event)
@@ -445,6 +459,58 @@ const navigation: Ref<NavigationItem[]> = ref([]);
 
 onMounted(() => {
   createNavigation();
+  fetchTxtFileData.value = `// 构造函数
+function Person(name) {
+    this.name = name;
+}
+
+// 在 Person 的原型中添加一个方法
+Person.prototype.sayHello = function() {
+    return "Hello, I'm " + this.name;
+};
+
+// 创建一个新的 Person 对象
+var alice = new Person("Alice");
+
+// 调用 sayHello 方法
+console.log(alice.sayHello());  // "Hello, I'm Alice"
+
+// 创建一个新的对象，它的原型是 alice
+var bob = Object.create(alice);
+bob.name = "Bob";
+
+// bob 对象没有自己的 sayHello 方法，但它可以继承 alice 的 sayHello 方法
+console.log(bob.sayHello());  // "Hello, I'm Bob"`
+fetchTxtFileData2.value = `// 定义一个类
+class Person {
+    constructor(name) {
+        this.name = name;
+    }
+
+    // 在类的原型中添加一个方法
+    sayHello() {
+        return "Hello, I'm " + this.name;
+    }
+}
+
+// 创建一个新的 Person 对象
+let alice = new Person("Alice");
+
+// 调用 sayHello 方法
+console.log(alice.sayHello());  // "Hello, I'm Alice"
+
+// 定义一个新的类，它继承自 Person 类
+class AnotherPerson extends Person {
+    constructor(name) {
+        super(name);  // 调用父类的 constructor 方法
+    }
+}
+
+// 创建一个新的 AnotherPerson 对象
+let bob = new AnotherPerson("Bob");
+
+// bob 对象继承了 Person 类的 sayHello 方法
+console.log(bob.sayHello());  // "Hello, I'm Bob"`
 });
 
 const createNavigation = (): void => {
