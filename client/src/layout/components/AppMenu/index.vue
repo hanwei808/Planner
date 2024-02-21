@@ -93,13 +93,6 @@
         style="position: fixed;bottom: 0;width: 200px;background-color: #fafafa;padding-bottom: 10px;text-align: center;"
       >
         <div>&copy; 2024 Han Wei </div>
-        <el-link
-          href="https://beian.miit.gov.cn/#/Integrated/recordQuery"
-          target="_Blank"
-          style="color: #79BBFF;"
-        >
-          <i style="display: inline-block;width: 12px;height: 12px;margin-right: 5px;background: url(https://m.baidu.com/static/index/plus/public/icon_police.png) no-repeat;background-size: 100% 100%;" />琼ICP备2021002448号-1
-        </el-link>
       </div>
     </el-menu>
   </div>

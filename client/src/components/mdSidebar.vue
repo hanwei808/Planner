@@ -79,7 +79,7 @@ const handleCollapse = () => {
         display: block;
         position: fixed;
         top: 107px;
-        right: 10px;
+        right: 12px;
         height: -webkit-fill-available;
         background-color: #fff;
         color: #42b983;
