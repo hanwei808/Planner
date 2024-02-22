@@ -1,0 +1,1754 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="623px" height="3746px" viewBox="-0.5 -0.5 623 3746" content="&lt;mxfile&gt;&lt;diagram id=&quot;LdOZ6nujQRRXsifmEK1F&quot; name=&quot;第 1 页&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 13 23 L 13 0 L 599 0 L 599 23" fill="#f5f5f5" stroke="#666666" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 13 23 L 13 590 L 599 590 L 599 23" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 13 23 L 599 23" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 584px; height: 1px; padding-top: 12px; margin-left: 14px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                原型链继承
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="306" y="15" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    原型链继承
+                </text>
+            </switch>
+        </g>
+        <path d="M 153 170 L 153 193.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 153 198.88 L 149.5 191.88 L 153 193.63 L 156.5 191.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 53 73 L 53 50 L 253 50 L 253 73" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 53 73 L 53 170 L 253 170 L 253 73" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 53 73 L 253 73" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 62px; margin-left: 54px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function Parent
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="153" y="65" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function Parent
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 95px; margin-left: 153px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                {...constructor...}
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="153" y="99" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    {...constructor...}
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 135px; margin-left: 153px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                prototype
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="153" y="139" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    prototype
+                </text>
+            </switch>
+        </g>
+        <path d="M 213 220 L 376.63 220" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 381.88 220 L 374.88 223.5 L 376.63 220 L 374.88 216.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="93" y="200" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 220px; margin-left: 94px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span class="token keyword keyword-new" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    new
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Parent
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="153" y="224" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    new Parent()
+                </text>
+            </switch>
+        </g>
+        <path d="M 443 270 L 443 293.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 443 298.88 L 439.5 291.88 L 443 293.63 L 446.5 291.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 343 73 L 343 50 L 543 50 L 543 73" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 343 73 L 343 270 L 543 270 L 543 73" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 343 73 L 543 73" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 62px; margin-left: 344px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function Child
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="443" y="65" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function Child
+                </text>
+            </switch>
+        </g>
+        <rect x="383" y="200" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 220px; margin-left: 384px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                prototype
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="443" y="224" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    prototype
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 120px; margin-left: 443px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                {...constructor...}
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="443" y="124" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    {...constructor...}
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 300px; margin-left: 168px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span class="token comment" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(142, 144, 140); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    // 继承父类型
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    <br/>
+                                </span>
+                                <span class="token class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Child
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span class="token property-access" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    prototype
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token operator" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    =
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token keyword keyword-new" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    new
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Parent
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="168" y="304" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    // 继承父类型Child.prototype = new Parent();
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 345px; margin-left: 168px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span class="token keyword keyword-var" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    var
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    child
+                                </span>
+                                <span class="token operator" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    =
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token keyword keyword-new" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    new
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Child
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="168" y="349" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    var child = new Child();
+                </text>
+            </switch>
+        </g>
+        <rect x="383" y="300" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 320px; margin-left: 384px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span class="token keyword keyword-new" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    new
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Child
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="443" y="324" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    new Child()
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 475px; margin-left: 306px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; font-size: 15px; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem; color: rgb(44, 62, 80); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; text-align: start;">
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        优点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                简单易懂。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                可以实现方法和属性的共享，节省内存。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        缺点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                来自原型的所有属性都是共享的，一个实例对属性的修改会影响所有实例。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                创建子类实例时，不能向父类构造函数传递参数。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="306" y="479" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    优点：简单易懂。可以实现方法和属性的共享，节省内存。缺点：来自原型的所有属性都是共享的，一个实例对属性的修改会影响所有实例。创建子类实例时，不能向父类构造函数传递参数。...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1 673 L 1 650 L 611 650 L 611 673" fill="#f5f5f5" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 673 L 1 1120 L 611 1120 L 611 673" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 673 L 611 673" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 608px; height: 1px; padding-top: 662px; margin-left: 2px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                构造函数继承
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="306" y="665" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    构造函数继承
+                </text>
+            </switch>
+        </g>
+        <path d="M 41 723 L 41 700 L 241 700 L 241 723" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 41 723 L 41 820 L 241 820 L 241 723" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 41 723 L 241 723" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 712px; margin-left: 42px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function Parent
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="141" y="715" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function Parent
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 745px; margin-left: 141px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                {...constructor...}
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="141" y="749" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    {...constructor...}
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 785px; margin-left: 141px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                prototype
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="141" y="789" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    prototype
+                </text>
+            </switch>
+        </g>
+        <path d="M 341 723 L 341 700 L 541 700 L 541 723" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 341 723 L 341 820 L 541 820 L 541 723" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 341 723 L 541 723" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 712px; margin-left: 342px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function Child
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="441" y="715" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function Child
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 745px; margin-left: 431px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                {...constuctor...}
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="431" y="749" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    {...constuctor...}
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 795px; margin-left: 441px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span class="token maybe-class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Parent
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span class="token method function property-access" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    call
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token keyword keyword-this" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    this
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ,
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    name
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="441" y="799" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Parent.call(this, name);
+                </text>
+            </switch>
+        </g>
+        <path d="M 196 745 L 369.63 745" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 374.88 745 L 367.88 748.5 L 369.63 745 L 367.88 741.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="381" y="850" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 870px; margin-left: 382px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span class="token keyword keyword-new" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    new
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Child
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="441" y="874" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    new Child()
+                </text>
+            </switch>
+        </g>
+        <path d="M 441 810 L 441 843.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 441 848.88 L 437.5 841.88 L 441 843.63 L 444.5 841.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1015px; margin-left: 306px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; font-size: 15px; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem; color: rgb(44, 62, 80); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; text-align: start;">
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        优点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                子类可以向父类构造函数传递参数。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                解决了原型链继承中父类引用属性被所有实例共享的问题。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        缺点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                方法都在构造函数中定义，每次创建实例都会创建一遍方法，无法实现函数复用。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                只能继承父类的实例属性和方法，不能继承原型属性/方法。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="306" y="1019" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    优点：子类可以向父类构造函数传递参数。解决了原型链继承中父类引用属性被所有实例共享的问题。缺点：方法都在构造函数中定义，每次创建实例都会创建一遍方法，无法实现函数复用。只能继承父类的实例属性和方法，不能继承原型属性/方法。...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1 1193 L 1 1170 L 612 1170 L 612 1193" fill="#f5f5f5" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 1193 L 1 1760 L 612 1760 L 612 1193" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 1193 L 612 1193" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 609px; height: 1px; padding-top: 1182px; margin-left: 2px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                组合继承
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="307" y="1185" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    组合继承
+                </text>
+            </switch>
+        </g>
+        <path d="M 32 1233 L 32 1210 L 232 1210 L 232 1233" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 32 1233 L 32 1410 L 232 1410 L 232 1233" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 32 1233 L 232 1233" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 1222px; margin-left: 33px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function Parent
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="132" y="1225" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function Parent
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1265px; margin-left: 132px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                {...constructor...}
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="132" y="1269" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    {...constructor...}
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1335px; margin-left: 132px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                prototype
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="132" y="1339" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    prototype
+                </text>
+            </switch>
+        </g>
+        <path d="M 302 1233 L 302 1210 L 578 1210 L 578 1233" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 302 1233 L 302 1490 L 578 1490 L 578 1233" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 302 1233 L 578 1233" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 274px; height: 1px; padding-top: 1222px; margin-left: 303px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function Child
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="440" y="1225" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function Child
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1261px; margin-left: 440px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                {...constuctor...}
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="440" y="1265" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    {...constuctor...}
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1305px; margin-left: 440px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span class="token maybe-class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    <span style="color: rgb(142, 144, 140);">
+                                        // 继承属性
+                                    </span>
+                                    <br/>
+                                    Parent
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span class="token method function property-access" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    call
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token keyword keyword-this" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    this
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ,
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    name
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="440" y="1309" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    // 继承属性...
+                </text>
+            </switch>
+        </g>
+        <rect x="380" y="1350" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 1370px; margin-left: 381px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                prototype
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="440" y="1374" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    prototype
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1460px; margin-left: 438px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span data-v-41188a66="" class="token class-name" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    <span style="color: rgb(142, 144, 140); background-color: rgb(248, 248, 248);">
+                                        // 修正 constructor 指向
+                                    </span>
+                                    <br/>
+                                    Child
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span data-v-41188a66="" class="token property-access" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    prototype
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span data-v-41188a66="" class="token property-access" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    constructor
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span data-v-41188a66="" class="token operator" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    =
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span data-v-41188a66="" class="token maybe-class-name" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Child
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="438" y="1464" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    // 修正 constructor 指向...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1420px; margin-left: 438px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span data-v-41188a66="" class="token class-name" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    <span style="color: rgb(142, 144, 140);">
+                                        // 继承方法
+                                    </span>
+                                    <br/>
+                                    Child
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span data-v-41188a66="" class="token property-access" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    prototype
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span data-v-41188a66="" class="token operator" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    =
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span data-v-41188a66="" class="token keyword keyword-new" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    new
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span data-v-41188a66="" class="token class-name" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Parent
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="438" y="1424" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    // 继承方法...
+                </text>
+            </switch>
+        </g>
+        <path d="M 187 1265 L 380.61 1264.99" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 385.86 1264.99 L 378.86 1268.49 L 380.61 1264.99 L 378.86 1261.49 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1665px; margin-left: 291px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; font-size: 15px; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem; color: rgb(44, 62, 80); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; text-align: start;">
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        优点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                结合了两种模式的优点，可以传递参数，且方法可以被复用。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                既继承了父类的实例属性和方法，也继承了父类原型上的属性和方法。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        缺点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                父类构造函数会被调用两次，一次是设置子类原型的时候，一次是在子类
+                                                <br/>
+                                                构造函数内部调用，可能导致效率低下和冗余。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="291" y="1669" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    优点：结合了两种模式的优点，可以传递参数，且方法可以被复用。既继承了父类的实例属性和方法，也继承了父类原型上的属性和方法。缺点：父类构造函数会被调用两次，一次是设置子类原型的时候，一次是在子类构造函数内部调用，可能导致效率低下和冗余。...
+                </text>
+            </switch>
+        </g>
+        <rect x="380" y="1530" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 1550px; margin-left: 381px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span class="token keyword keyword-new" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    new
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Child
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="440" y="1554" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    new Child()
+                </text>
+            </switch>
+        </g>
+        <path d="M 438.44 1480 L 439.41 1523.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 439.53 1528.88 L 435.88 1521.96 L 439.41 1523.63 L 442.87 1521.81 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 380 1370 L 238.37 1370" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 233.12 1370 L 240.12 1366.5 L 238.37 1370 L 240.12 1373.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 1863 L 0 1840 L 611 1840 L 611 1863" fill="#f5f5f5" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 1863 L 0 2340 L 611 2340 L 611 1863" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 1863 L 611 1863" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 609px; height: 1px; padding-top: 1852px; margin-left: 1px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                寄生继承
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="306" y="1855" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    寄生继承
+                </text>
+            </switch>
+        </g>
+        <path d="M 231 1990 L 273.63 1990" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 278.88 1990 L 271.88 1993.5 L 273.63 1990 L 271.88 1986.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 1933 L 31 1910 L 231 1910 L 231 1933" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 1933 L 31 2070 L 231 2070 L 231 1933" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 1933 L 231 1933" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 1922px; margin-left: 32px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function Parent
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="131" y="1925" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function Parent
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1965px; margin-left: 131px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                {...constructor...}
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="131" y="1969" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    {...constructor...}
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 2035px; margin-left: 131px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                prototype
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="131" y="2039" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    prototype
+                </text>
+            </switch>
+        </g>
+        <path d="M 425 2090 L 425 2123.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 425 2128.88 L 421.5 2121.88 L 425 2123.63 L 428.5 2121.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 1913 L 280 1890 L 570 1890 L 570 1913" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 1913 L 280 2090 L 570 2090 L 570 1913" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 1913 L 570 1913" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 288px; height: 1px; padding-top: 1902px; margin-left: 281px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function create
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="425" y="1905" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function create
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1945px; margin-left: 425px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span data-v-41188a66="" class="token keyword keyword-var" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    <span style="color: rgb(142, 144, 140); background-color: rgb(248, 248, 248);">
+                                        // 通过调用函数创建一个新对象
+                                    </span>
+                                    <br/>
+                                    var
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    clone
+                                </span>
+                                <span data-v-41188a66="" class="token operator" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    =
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span data-v-41188a66="" class="token known-class-name class-name" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Object
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span data-v-41188a66="" class="token method function property-access" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    create
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    original
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="425" y="1949" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    // 通过调用函数创建一个新对象...
+                </text>
+            </switch>
+        </g>
+        <rect x="370" y="1980" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 2000px; margin-left: 371px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                function 增强对象
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="430" y="2004" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    function 增强对象
+                </text>
+            </switch>
+        </g>
+        <rect x="370" y="2040" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 2060px; margin-left: 371px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                return 对象
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="430" y="2064" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    return 对象
+                </text>
+            </switch>
+        </g>
+        <rect x="365" y="2130" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 2150px; margin-left: 366px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                Object Child
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="425" y="2154" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Object Child
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 2250px; margin-left: 226px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; font-size: 15px; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem; color: rgb(44, 62, 80); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; text-align: start;">
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        优点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                灵活，可以对继承来的对象进行增强。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        缺点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                不能实现函数复用，每个实例都有自己的方法。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="226" y="2254" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    优点：灵活，可以对继承来的对象进行增强。缺点：不能实现函数复用，每个实例都有自己的方法。...
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 2413 L 0 2390 L 611 2390 L 611 2413" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 2413 L 0 3120 L 611 3120 L 611 2413" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 2413 L 611 2413" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 609px; height: 1px; padding-top: 2402px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                寄生组合继承
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="306" y="2405" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    寄生组合继承
+                </text>
+            </switch>
+        </g>
+        <path d="M 37 2483 L 37 2460 L 237 2460 L 237 2483" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 37 2483 L 37 2620 L 237 2620 L 237 2483" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 37 2483 L 237 2483" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 2472px; margin-left: 38px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function Parent
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="137" y="2475" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function Parent
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 2515px; margin-left: 137px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                {...constructor...}
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="137" y="2519" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    {...constructor...}
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 2585px; margin-left: 137px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                prototype
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="137" y="2589" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    prototype
+                </text>
+            </switch>
+        </g>
+        <path d="M 522 2620 L 522 2683.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 522 2688.88 L 518.5 2681.88 L 522 2683.63 L 525.5 2681.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 372 2483 L 372 2460 L 572 2460 L 572 2483" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 372 2483 L 372 2620 L 572 2620 L 572 2483" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 372 2483 L 572 2483" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 2472px; margin-left: 373px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function Child
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="472" y="2475" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function Child
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 2505px; margin-left: 462px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                {...constuctor...}
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="462" y="2509" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    {...constuctor...}
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 2555px; margin-left: 472px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span class="token maybe-class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Parent
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span class="token method function property-access" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    call
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token keyword keyword-this" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    this
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ,
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    name
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="472" y="2559" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Parent.call(this, name);
+                </text>
+            </switch>
+        </g>
+        <path d="M 337 2690 L 417.08 2624.05" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 421.14 2620.71 L 417.96 2627.86 L 417.08 2624.05 L 413.51 2622.46 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 37 2713 L 37 2690 L 437 2690 L 437 2713" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 37 2713 L 37 2900 L 437 2900 L 437 2713" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 37 2713 L 437 2713" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 398px; height: 1px; padding-top: 2702px; margin-left: 38px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Function create
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="237" y="2705" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Function create
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 2750px; margin-left: 237px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span data-v-41188a66="" class="token keyword keyword-var" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    <span style="color: rgb(142, 144, 140); background-color: rgb(248, 248, 248);">
+                                        // 创建对象
+                                    </span>
+                                    <br/>
+                                    var
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    prototype
+                                </span>
+                                <span data-v-41188a66="" class="token operator" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    =
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span data-v-41188a66="" class="token known-class-name class-name" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Object
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span data-v-41188a66="" class="token method function property-access" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    create
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    parentObj
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span data-v-41188a66="" class="token property-access" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    prototype
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="237" y="2754" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    // 创建对象...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 2860px; margin-left: 237px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span style="color: rgb(142, 144, 140); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    // 指定对象
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    <br/>
+                                    childObj
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span data-v-41188a66="" class="token property-access" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    prototype
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span data-v-41188a66="" class="token operator" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    =
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    prototype
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="237" y="2864" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    // 指定对象...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 2805px; margin-left: 237px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <span style="color: rgb(142, 144, 140); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    // 增强对象
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    <br/>
+                                    prototype
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    .
+                                </span>
+                                <span data-v-41188a66="" class="token property-access" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    constructor
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span data-v-41188a66="" class="token operator" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    =
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    childObj
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    ;
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="237" y="2809" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    // 增强对象...
+                </text>
+            </switch>
+        </g>
+        <path d="M 137 2620 L 137 2683.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 137 2688.88 L 133.5 2681.88 L 137 2683.63 L 140.5 2681.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="462" y="2690" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 2710px; margin-left: 463px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span class="token keyword keyword-new" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    new
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Child
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="522" y="2714" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    new Child()
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 3015px; margin-left: 292px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; font-size: 15px; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem; color: rgb(44, 62, 80); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; text-align: start;">
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        优点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                解决了组合继承调用两次父类构造函数的问题，更高效。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                可以实现函数复用。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                既继承了父类的实例属性和方法，也继承了父类原型上的属性和方法。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        缺点：
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                实现较为复杂。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="292" y="3019" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    优点：解决了组合继承调用两次父类构造函数的问题，更高效。可以实现函数复用。既继承了父类的实例属性和方法，也继承了父类原型上的属性和方法。缺点：实现较为复杂。...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1 3183 L 1 3160 L 612 3160 L 612 3183" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 3183 L 1 3740 L 612 3740 L 612 3183" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 3183 L 612 3183" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 609px; height: 1px; padding-top: 3172px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                类继承
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="307" y="3175" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    类继承
+                </text>
+            </switch>
+        </g>
+        <path d="M 231 3300 L 356.63 3300" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 361.88 3300 L 354.88 3303.5 L 356.63 3300 L 354.88 3296.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 3300px; margin-left: 301px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                extends
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="301" y="3303" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 31 3233 L 31 3210 L 231 3210 L 231 3233" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 3233 L 31 3390 L 231 3390 L 231 3233" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 31 3233 L 231 3233" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 3222px; margin-left: 32px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Class Parent
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="131" y="3225" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Class Parent
+                </text>
+            </switch>
+        </g>
+        <rect x="72" y="3250" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 3270px; margin-left: 73px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                constructor
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="132" y="3274" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    constructor
+                </text>
+            </switch>
+        </g>
+        <rect x="72" y="3320" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 3340px; margin-left: 73px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                function
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="132" y="3344" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    function
+                </text>
+            </switch>
+        </g>
+        <path d="M 463 3390 L 463 3423.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 463 3428.88 L 459.5 3421.88 L 463 3423.63 L 466.5 3421.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 363 3233 L 363 3210 L 563 3210 L 563 3233" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 363 3233 L 363 3390 L 563 3390 L 563 3233" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 363 3233 L 563 3233" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 3222px; margin-left: 364px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Class Child
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="463" y="3225" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Class Child
+                </text>
+            </switch>
+        </g>
+        <rect x="402" y="3250" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 3270px; margin-left: 403px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                constructor
+                                <br/>
+                                <span data-v-41188a66="" class="token keyword keyword-super" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    super
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                    name
+                                </span>
+                                <span data-v-41188a66="" class="token punctuation" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="462" y="3274" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    constructor...
+                </text>
+            </switch>
+        </g>
+        <rect x="402" y="3320" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 3340px; margin-left: 403px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                function
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="462" y="3344" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    function
+                </text>
+            </switch>
+        </g>
+        <rect x="403" y="3430" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 3450px; margin-left: 404px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span class="token keyword keyword-new" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(233, 105, 0); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    new
+                                </span>
+                                <span style="color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start; background-color: rgb(248, 248, 248);">
+                                </span>
+                                <span class="token class-name" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    Child
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    (
+                                </span>
+                                <span class="token punctuation" data-v-41188a66="" style="-webkit-font-smoothing: initial; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; min-height: 1.5rem; color: rgb(82, 82, 82); font-family: &quot;Roboto Mono&quot;, Monaco, courier, monospace; text-align: start;">
+                                    )
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="463" y="3454" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    new Child()
+                </text>
+            </switch>
+        </g>
+        <path d="M 192 3270 L 395.63 3270" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400.88 3270 L 393.88 3273.5 L 395.63 3270 L 393.88 3266.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 3600px; margin-left: 322px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; font-size: 15px; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem; color: rgb(44, 62, 80); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; text-align: start;">
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        优点
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                语法简洁直观，更接近传统面向对象编程的写法。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                提供了 class、extends、super 等关键字，使得结构清晰，继承机制更加明确。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                支持静态方法。
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                        缺点
+                                        <ul data-v-41188a66="" style="padding-inline-start: 20px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box; list-style-position: initial; list-style-image: initial; line-height: 1.6rem; word-spacing: 0.05rem; padding-left: 1.5rem;">
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                ES6 类实际上是原型继承的语法糖，底层仍然使用原型链，需要理解原型链
+                                                <br/>
+                                                的工作原理。
+                                            </li>
+                                            <li data-v-41188a66="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; text-size-adjust: none; box-sizing: border-box;">
+                                                在旧版本浏览器中需要通过编译转换才能使用
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="322" y="3604" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    优点语法简洁直观，更接近传统面向对象编程的写法。提供了 class、extends、super 等关键字，使得结构清晰，继承机制更加明确。支持静态方法。缺点...
+                </text>
+            </switch>
+        </g>
+        <path d="M 402 3340 L 198.37 3340" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 193.12 3340 L 200.12 3336.5 L 198.37 3340 L 200.12 3343.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 3340px; margin-left: 304px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                继承/重写/扩展
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="304" y="3343" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    继承/重写/扩展
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
