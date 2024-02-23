@@ -99,7 +99,7 @@
           framespacing="0"
           allowfullscreen="true"
           width="500"
-          height="300"
+          height="800"
         />
 
         <inline-svg :src="svg" />

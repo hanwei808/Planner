@@ -13,10 +13,6 @@
           label="文档"
           name="first"
         />
-        <el-tab-pane
-          label="流程图"
-          name="second"
-        />
       </el-tabs>
     </el-affix>
     <mdSidebar
