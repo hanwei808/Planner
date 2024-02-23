@@ -5,3 +5,14 @@
     </router-link>
   </el-empty>
 </template>
+
+<script lang="ts" setup>
+import { onMounted } from "vue";
+import router from "@/router";
+
+onMounted(()=>{
+  setTimeout(() => {
+    router.push({path:  decodeURIComponent(window.location.hash?.slice(1)) || '/'})
+  });
+})
+</script>

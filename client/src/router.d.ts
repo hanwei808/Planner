@@ -5,3 +5,7 @@ declare module 'vue-router' {
     title: string
   }
 }
+
+export function push(arg0: { path: string }) {
+throw new Error("Function not implemented.")
+}
