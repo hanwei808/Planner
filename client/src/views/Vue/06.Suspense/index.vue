@@ -35,69 +35,13 @@
         </h2>
         <p>Vue 3 引入了一个新的内置组件：<code>Suspense</code>，它提供了一种方式来等待嵌套的异步依赖加载完成，并在等待时显示一些回退内容。这在等待异步组件或者异步函数结果时非常有用。</p>
         <p>这是一个基本的 <code>Suspense</code> 使用示例：</p>
-        <pre
-          data-role="codeBlock"
-          data-info="vue"
-          class="language-vue vue"
-        ><code>&lt;template&gt;
-  &lt;Suspense&gt;
-    &lt;template #default&gt;
-      &lt;AsyncComponent /&gt;
-    &lt;/template&gt;
-    &lt;template #fallback&gt;
-      &lt;div&gt;Loading...&lt;/div&gt;
-    &lt;/template&gt;
-  &lt;/Suspense&gt;
-&lt;/template&gt;
-
-&lt;script&gt;
-import AsyncComponent from "./AsyncComponent.vue";
-
-export default {
-  components: {
-    AsyncComponent,
-  },
-};
-&lt;/script&gt;
-</code></pre><p>在这个例子中，<code>AsyncComponent</code> 是一个异步组件。当它正在加载时，<code>Suspense</code> 会渲染 <code>fallback</code> 插槽中的内容（在这个例子中是 "Loading..."）。当 <code>AsyncComponent</code> 加载完成时，<code>Suspense</code> 会渲染默认插槽的内容。</p>
-        <p>注意，<code>Suspense</code> 可以处理任何异步操作，不仅仅是异步组件。例如，你可以在组件的 <code>setup</code> 函数中使用异步函数，并且 <code>Suspense</code> 会等待它完成。</p>
-        <pre
-          data-role="codeBlock"
-          data-info="vue"
-          class="language-vue vue"
-        ><code>&lt;template&gt;
-  &lt;Suspense&gt;
-    &lt;template #default&gt;
-      &lt;div&gt;{{ data }}&lt;/div&gt;
-    &lt;/template&gt;
-    &lt;template #fallback&gt;
-      &lt;div&gt;Loading...&lt;/div&gt;
-    &lt;/template&gt;
-  &lt;/Suspense&gt;
-&lt;/template&gt;
-
-&lt;script&gt;
-import { ref } from "vue";
-
-export default {
-  setup() {
-    const data = ref(null);
-
-    async function fetchData() {
-      // simulate async operation
-      await new Promise((resolve) =&gt; setTimeout(resolve, 2000));
-      data.value = "Hello, world!";
-    }
-
-    fetchData();
-
-    return {
-      data,
-    };
-  },
-};
-&lt;/script&gt;
-</code></pre><p>在这个例子中，<code>Suspense</code> 会等待 <code>fetchData</code> 函数完成，并在等待时显示 "Loading..."。当 <code>fetchData</code> 完成时，它会显示 "Hello, world!"。</p>
+        <div>
+          <Code
+            v-model="fetchTxtFileData"
+            :style="{width: '80vw'}"
+          />
+        </div>
+        <p>在这个例子中，<code>Suspense</code> 会等待 <code>fetchData</code> 函数完成，并在等待时显示 "Loading..."。当 <code>fetchData</code> 完成时，它会显示 "Hello, world!"。</p>
         <p>总的来说，<code>Suspense</code> 提供了一种优雅的方式来处理 Vue 应用中的异步操作，无论是异步组件还是任何其他类型的异步函数。</p>
         <h2 id="使用场景">
           使用场景
@@ -126,52 +70,85 @@ export default {
   </div>
 </template>
         
-    <script setup lang="ts">
-        import { onMounted, ref, Ref } from 'vue';
-        import type { TabsPaneContext } from 'element-plus'
-        import mdSidebar from '@/components/mdSidebar.vue';
-    
-        const activeName = ref('first')
-    
-        const handleClick = (tab: TabsPaneContext, event: Event) => {
-        console.log(tab, event)
-        }
-    
-        // Define a type for navigation items
-        type NavigationItem = {
-        title: string;
-        id: string;
-        children: NavigationItem[];
-        };
-    
-        // Define the type for the navigation ref
-        const navigation: Ref<NavigationItem[]> = ref([]);
-    
-        onMounted(async () => {
+  <script setup lang="ts">
+      import { onMounted, ref, Ref } from 'vue';
+      import type { TabsPaneContext } from 'element-plus'
+      import mdSidebar from '@/components/mdSidebar.vue';
+      import Code  from '@/components/code.vue';
+
+      const fetchTxtFileData = ref('');    
+      const activeName = ref('first')
+  
+      const handleClick = (tab: TabsPaneContext, event: Event) => {
+      console.log(tab, event)
+      }
+  
+      // Define a type for navigation items
+      type NavigationItem = {
+      title: string;
+      id: string;
+      children: NavigationItem[];
+      };
+  
+      // Define the type for the navigation ref
+      const navigation: Ref<NavigationItem[]> = ref([]);
+  
+      onMounted(async () => {
+        fetchTxtFileData.value = `<template>
+  <Suspense>
+    <template #default>
+      <div>{{ data }}</div>
+    </template>
+    <template #fallback>
+      <div>Loading...</div>
+    </template>
+  </Suspense>
+</template>
+
+<script>
+import { ref } from "vue";
+
+export default {
+  setup() {
+    const data = ref(null);
+
+    async function fetchData() {
+      // simulate async operation
+      await new Promise((resolve) => setTimeout(resolve, 2000));
+      data.value = "Hello, world!";
+    }
+
+    fetchData();
+
+    return {
+      data,
+    };
+  },
+};`;
         createNavigation();
-        });
-    
-        const createNavigation = (): void => {
-        const headers = Array.from(document.querySelectorAll('h2, h3')) as HTMLElement[];
-        let currentH1: NavigationItem | null = null;
-    
-        headers.forEach(header => {
-        const newItem: NavigationItem = {
-        title: header.innerText,
-        id: header.id,
-        children: []
-        };
-    
-        if (header.tagName === 'H2') {
-        currentH1 = newItem;
-        navigation.value.push(newItem);
-        } else if (header.tagName === 'H3' && currentH1) {
-        currentH1.children.push(newItem);
-        }
-        });
-        };
-    </script>
-    <style scoped>
-    @import url(@/styles/markdown.scss);
-    @import url(@/styles/base.scss);
-    </style>
+      });
+  
+      const createNavigation = (): void => {
+      const headers = Array.from(document.querySelectorAll('h2, h3')) as HTMLElement[];
+      let currentH1: NavigationItem | null = null;
+  
+      headers.forEach(header => {
+      const newItem: NavigationItem = {
+      title: header.innerText,
+      id: header.id,
+      children: []
+      };
+  
+      if (header.tagName === 'H2') {
+      currentH1 = newItem;
+      navigation.value.push(newItem);
+      } else if (header.tagName === 'H3' && currentH1) {
+      currentH1.children.push(newItem);
+      }
+      });
+      };
+</script>
+<style scoped>
+  @import url(@/styles/markdown.scss);
+  @import url(@/styles/base.scss);
+</style>
