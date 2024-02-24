@@ -2,6 +2,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import AppLayout from '@/layout/AppLayout.vue'
 import 'nprogress/nprogress.css'
 import JavaScript from '@/router/modules/JavaScript'
+import Vue from '@/router/modules/Vue'
 import NotFoundComponent from '@/components/NotFoundComponent.vue'
 
 const routes = [
@@ -32,6 +33,7 @@ const routes = [
                 }
             },
             ...JavaScript,
+            ...Vue
         ]
     }
 ]

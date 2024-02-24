@@ -43,12 +43,27 @@
           <el-icon><DataAnalysis /></el-icon>
           <span>NodeJS</span>
         </template>
+        <el-menu-item
+          :index="'1'"
+        >
+          Webpack
+        </el-menu-item>
       </el-sub-menu>
 
-      <el-sub-menu index="Vue3">
+      <el-sub-menu index="Vue">
         <template #title>
           <el-icon><DataAnalysis /></el-icon>
-          <span>Vue3</span>
+          <span>Vue</span>
+        </template>
+        <template
+          v-for="js in Vue"
+          :key="js.path"
+        >
+          <el-menu-item
+            :index="js.path"
+          >
+            {{ js.name.split('/')[1] }}
+          </el-menu-item>
         </template>
       </el-sub-menu>
 
@@ -107,9 +122,23 @@
 
     import { ref } from 'vue'
     const JavaScript = ref()
+    const Vue = ref()
 
     const jsModules = import.meta.glob('@/views/JavaScript/*/*.vue')
     JavaScript.value = Object.entries(jsModules).map(([path, component]) => {
+        const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
+        return {
+            path: `/${name}`,
+            name,
+            component,
+            meta: {
+                title: name,
+                requiresAuth: false
+            }
+        }
+    })
+    const vueModules = import.meta.glob('@/views/Vue/*/*.vue')
+    Vue.value = Object.entries(vueModules).map(([path, component]) => {
         const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
         return {
             path: `/${name}`,
