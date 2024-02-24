@@ -26,4 +26,5 @@ export default defineConfig({
     }
   },
   envDir: 'src/env',
+  assetsInclude: ['**/*.awebp']
 })
