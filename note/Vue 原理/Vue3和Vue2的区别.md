@@ -99,3 +99,4 @@ createApp(App).use(store).use(router).mount("#app");
 - template 模板：可以不包在一个根 div 里
 - 优先级：v-if 高于 v-for
 - Vue3 不推荐使用 mixin 进行复用逻辑提取，而是推荐写成 hook 方式，不会有命名冲突的问题。
+- Vue 3 中已经不再支持过滤器，推荐使用计算属性或方法代替。

@@ -135,7 +135,8 @@
   <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
 </code></pre>
-      </div><div v-show="activeName === 'second'">
+      </div>
+      <div v-show="activeName === 'second'">
         <inline-svg :src="svg" />
       </div>
     </div>
