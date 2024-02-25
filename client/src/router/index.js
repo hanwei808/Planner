@@ -6,6 +6,9 @@ import Vue from '@/router/modules/Vue'
 import Network from '@/router/modules/Network'
 import NodeJS from '@/router/modules/NodeJS'
 import TypeScript from '@/router/modules/TypeScript'
+import Architecture from '@/router/modules/Architecture'
+import DevTrend from '@/router/modules/DevTrend'
+import Solution from '@/router/modules/Solution'
 import NotFoundComponent from '@/components/NotFoundComponent.vue'
 
 const routes = [
@@ -39,7 +42,10 @@ const routes = [
             ...Vue,
             ...Network,
             ...NodeJS,
-            ...TypeScript
+            ...TypeScript,
+            ...Architecture,
+            ...DevTrend,
+            ...Solution
         ]
     }
 ]

@@ -192,6 +192,17 @@
           </el-icon>
           <span>商业案例</span>
         </template>
+        <template
+          v-for="sl in Solution"
+          :key="sl.path"
+        >
+          <el-menu-item
+            :index="sl.path"
+            disabled
+          >
+            {{ sl.name.split('/')[1] }}
+          </el-menu-item>
+        </template>
       </el-sub-menu>
 
       <el-sub-menu index="88">
@@ -226,6 +237,7 @@
     const Architecture = ref()
     const DevTrend = ref()
     const TypeScript = ref()
+    const Solution = ref()
 
     const jsModules = import.meta.glob('@/views/JavaScript/*/*.vue')
     JavaScript.value = Object.entries(jsModules).map(([path, component]) => {
@@ -307,6 +319,19 @@
     })
     const tsModules = import.meta.glob('@/views/TypeScript/*/*.vue')
     TypeScript.value = Object.entries(tsModules).map(([path, component]) => {
+        const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
+        return {
+            path: `/${name}`,
+            name,
+            component,
+            meta: {
+                title: name,
+                requiresAuth: false
+            }
+        }
+    })
+    const solutionModules = import.meta.glob('@/views/Solution/*/*.vue')
+    Solution.value = Object.entries(solutionModules).map(([path, component]) => {
         const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
         return {
             path: `/${name}`,
