@@ -43,11 +43,16 @@
           <el-icon><DataAnalysis /></el-icon>
           <span>NodeJS</span>
         </template>
-        <el-menu-item
-          :index="'1'"
+        <template
+          v-for="node in NodeJS"
+          :key="node.path"
         >
-          Webpack
-        </el-menu-item>
+          <el-menu-item
+            :index="node.path"
+          >
+            {{ node.name.split('/')[1] }}
+          </el-menu-item>
+        </template>
       </el-sub-menu>
 
       <el-sub-menu index="Vue">
@@ -56,13 +61,13 @@
           <span>Vue</span>
         </template>
         <template
-          v-for="js in Vue"
-          :key="js.path"
+          v-for="vue in Vue"
+          :key="vue.path"
         >
           <el-menu-item
-            :index="js.path"
+            :index="vue.path"
           >
-            {{ js.name.split('/')[1] }}
+            {{ vue.name.split('/')[1] }}
           </el-menu-item>
         </template>
       </el-sub-menu>
@@ -72,12 +77,32 @@
           <el-icon><DataAnalysis /></el-icon>
           <span>网络安全</span>
         </template>
+        <template
+          v-for="net in Netwrork"
+          :key="net.path"
+        >
+          <el-menu-item
+            :index="net.path"
+          >
+            {{ net.name.split('/')[1] }}
+          </el-menu-item>
+        </template>
       </el-sub-menu>
 
       <el-sub-menu index="Web">
         <template #title>
           <el-icon><DataAnalysis /></el-icon>
           <span>网站架构</span>
+        </template>
+        <template
+          v-for="arch in Architecture"
+          :key="arch.path"
+        >
+          <el-menu-item
+            :index="arch.path"
+          >
+            {{ arch.name.split('/')[1] }}
+          </el-menu-item>
         </template>
       </el-sub-menu>
 
@@ -86,12 +111,23 @@
           <el-icon><DataAnalysis /></el-icon>
           <span>发展趋势</span>
         </template>
-        <el-menu-item index="/">
-          微前端
-        </el-menu-item>
-        <el-menu-item index="/">
-          低代码
-        </el-menu-item>
+        <template
+          v-for="dev in DevTrend"
+          :key="dev.path"
+        >
+          <el-menu-item
+            :index="dev.path"
+          >
+            {{ dev.name.split('/')[1] }}
+          </el-menu-item>
+        </template>
+      </el-sub-menu>
+
+      <el-sub-menu index="Bus">
+        <template #title>
+          <el-icon><DataAnalysis /></el-icon>
+          <span>商业案例</span>
+        </template>
       </el-sub-menu>
 
       <el-sub-menu index="88">
@@ -123,6 +159,10 @@
     import { ref } from 'vue'
     const JavaScript = ref()
     const Vue = ref()
+    const Netwrork = ref()
+    const NodeJS = ref()
+    const Architecture = ref()
+    const DevTrend = ref()
 
     const jsModules = import.meta.glob('@/views/JavaScript/*/*.vue')
     JavaScript.value = Object.entries(jsModules).map(([path, component]) => {
@@ -137,8 +177,60 @@
             }
         }
     })
+    const nodeModules = import.meta.glob('@/views/NodeJS/*/*.vue')
+    NodeJS.value = Object.entries(nodeModules).map(([path, component]) => {
+        const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
+        return {
+            path: `/${name}`,
+            name,
+            component,
+            meta: {
+                title: name,
+                requiresAuth: false
+            }
+        }
+    })
     const vueModules = import.meta.glob('@/views/Vue/*/*.vue')
     Vue.value = Object.entries(vueModules).map(([path, component]) => {
+        const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
+        return {
+            path: `/${name}`,
+            name,
+            component,
+            meta: {
+                title: name,
+                requiresAuth: false
+            }
+        }
+    })
+    const netModules = import.meta.glob('@/views/Network/*/*.vue')
+    Netwrork.value = Object.entries(netModules).map(([path, component]) => {
+        const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
+        return {
+            path: `/${name}`,
+            name,
+            component,
+            meta: {
+                title: name,
+                requiresAuth: false
+            }
+        }
+    })
+    const architectureModules = import.meta.glob('@/views/Architecture/*/*.vue')
+    Architecture.value = Object.entries(architectureModules).map(([path, component]) => {
+        const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
+        return {
+            path: `/${name}`,
+            name,
+            component,
+            meta: {
+                title: name,
+                requiresAuth: false
+            }
+        }
+    })
+    const devModules = import.meta.glob('@/views/DevTrend/*/*.vue')
+    DevTrend.value = Object.entries(devModules).map(([path, component]) => {
         const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
         return {
             path: `/${name}`,

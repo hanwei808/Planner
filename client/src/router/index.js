@@ -3,6 +3,8 @@ import AppLayout from '@/layout/AppLayout.vue'
 import 'nprogress/nprogress.css'
 import JavaScript from '@/router/modules/JavaScript'
 import Vue from '@/router/modules/Vue'
+import Network from '@/router/modules/Network'
+import NodeJS from '@/router/modules/NodeJS'
 import NotFoundComponent from '@/components/NotFoundComponent.vue'
 
 const routes = [
@@ -33,7 +35,9 @@ const routes = [
                 }
             },
             ...JavaScript,
-            ...Vue
+            ...Vue,
+            ...Network,
+            ...NodeJS
         ]
     }
 ]
