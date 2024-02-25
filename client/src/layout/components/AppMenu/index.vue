@@ -175,6 +175,7 @@
         >
           <el-menu-item
             :index="dev.path"
+            disabled
           >
             {{ dev.name.split('/')[1] }}
           </el-menu-item>
