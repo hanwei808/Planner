@@ -54,27 +54,14 @@
           </el-icon>
           <span>TypeScript</span>
         </template>
-      </el-sub-menu>
-
-      <el-sub-menu index="NodeJS">
-        <template #title>
-          <el-icon>
-            <img
-              src="./icons/node.png"
-              width="20px"
-              alt="JavaScript"
-            >
-          </el-icon>
-          <span>NodeJS</span>
-        </template>
         <template
-          v-for="node in NodeJS"
-          :key="node.path"
+          v-for="ts in TypeScript"
+          :key="ts.path"
         >
           <el-menu-item
-            :index="node.path"
+            :index="ts.path"
           >
-            {{ node.name.split('/')[1] }}
+            {{ ts.name.split('/')[1] }}
           </el-menu-item>
         </template>
       </el-sub-menu>
@@ -84,7 +71,7 @@
           <el-icon>
             <img
               src="./icons/vue.png"
-              width="20px"
+              width="22px"
               alt="JavaScript"
             >
           </el-icon>
@@ -98,6 +85,29 @@
             :index="vue.path"
           >
             {{ vue.name.split('/')[1] }}
+          </el-menu-item>
+        </template>
+      </el-sub-menu>
+
+      <el-sub-menu index="NodeJS">
+        <template #title>
+          <el-icon>
+            <img
+              src="./icons/node.png"
+              width="19px"
+              alt="JavaScript"
+            >
+          </el-icon>
+          <span>NodeJS</span>
+        </template>
+        <template
+          v-for="node in NodeJS"
+          :key="node.path"
+        >
+          <el-menu-item
+            :index="node.path"
+          >
+            {{ node.name.split('/')[1] }}
           </el-menu-item>
         </template>
       </el-sub-menu>
@@ -153,7 +163,7 @@
           <el-icon>
             <img
               src="./icons/trend.png"
-              width="20px"
+              width="22px"
               alt="JavaScript"
             >
           </el-icon>
@@ -215,6 +225,7 @@
     const NodeJS = ref()
     const Architecture = ref()
     const DevTrend = ref()
+    const TypeScript = ref()
 
     const jsModules = import.meta.glob('@/views/JavaScript/*/*.vue')
     JavaScript.value = Object.entries(jsModules).map(([path, component]) => {
@@ -283,6 +294,19 @@
     })
     const devModules = import.meta.glob('@/views/DevTrend/*/*.vue')
     DevTrend.value = Object.entries(devModules).map(([path, component]) => {
+        const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
+        return {
+            path: `/${name}`,
+            name,
+            component,
+            meta: {
+                title: name,
+                requiresAuth: false
+            }
+        }
+    })
+    const tsModules = import.meta.glob('@/views/TypeScript/*/*.vue')
+    TypeScript.value = Object.entries(tsModules).map(([path, component]) => {
         const name = RegExp(/\/src\/views\/(.*)\.vue/).exec(path)?.[1]
         return {
             path: `/${name}`,
