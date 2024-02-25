@@ -5,7 +5,6 @@
       <Breadcrumb />
     </div>
     <div class="right">
-      <Avatar />
       <FullScreen />
     </div>
   </div>
@@ -16,7 +15,6 @@
 import ToggleSidebar from './ToggleSidebar.vue';
 import Breadcrumb from './Breadcrumb.vue'
 import FullScreen from './FullScreen.vue'
-import Avatar from './Avatar.vue';
 </script>
 
 <style lang="scss" scoped>

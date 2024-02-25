@@ -10,13 +10,25 @@
       router
     >
       <el-menu-item index="/">
-        <el-icon><House /></el-icon>
+        <el-icon>
+          <img
+            src="./icons/home.png"
+            width="18px"
+            alt="JavaScript"
+          >
+        </el-icon>
         <span>首页</span>
       </el-menu-item>
 
       <el-sub-menu index="JavaScript">
         <template #title>
-          <el-icon><DataAnalysis /></el-icon>
+          <el-icon>
+            <img
+              src="./icons/js.png"
+              width="20px"
+              alt="JavaScript"
+            >
+          </el-icon>
           <span>JavaScript</span>
         </template>
         <template
@@ -33,14 +45,26 @@
 
       <el-sub-menu index="TypeScript">
         <template #title>
-          <el-icon><DataAnalysis /></el-icon>
+          <el-icon>
+            <img
+              src="./icons/ts.png"
+              width="20px"
+              alt="JavaScript"
+            >
+          </el-icon>
           <span>TypeScript</span>
         </template>
       </el-sub-menu>
 
       <el-sub-menu index="NodeJS">
         <template #title>
-          <el-icon><DataAnalysis /></el-icon>
+          <el-icon>
+            <img
+              src="./icons/node.png"
+              width="20px"
+              alt="JavaScript"
+            >
+          </el-icon>
           <span>NodeJS</span>
         </template>
         <template
@@ -57,7 +81,13 @@
 
       <el-sub-menu index="Vue">
         <template #title>
-          <el-icon><DataAnalysis /></el-icon>
+          <el-icon>
+            <img
+              src="./icons/vue.png"
+              width="20px"
+              alt="JavaScript"
+            >
+          </el-icon>
           <span>Vue</span>
         </template>
         <template
@@ -74,7 +104,13 @@
 
       <el-sub-menu index="Net">
         <template #title>
-          <el-icon><DataAnalysis /></el-icon>
+          <el-icon>
+            <img
+              src="./icons/secure.png"
+              width="20px"
+              alt="JavaScript"
+            >
+          </el-icon>
           <span>网络安全</span>
         </template>
         <template
@@ -91,7 +127,13 @@
 
       <el-sub-menu index="Web">
         <template #title>
-          <el-icon><DataAnalysis /></el-icon>
+          <el-icon>
+            <img
+              src="./icons/web.png"
+              width="20px"
+              alt="JavaScript"
+            >
+          </el-icon>
           <span>网站架构</span>
         </template>
         <template
@@ -108,7 +150,13 @@
 
       <el-sub-menu index="Qu">
         <template #title>
-          <el-icon><DataAnalysis /></el-icon>
+          <el-icon>
+            <img
+              src="./icons/trend.png"
+              width="20px"
+              alt="JavaScript"
+            >
+          </el-icon>
           <span>发展趋势</span>
         </template>
         <template
@@ -125,7 +173,13 @@
 
       <el-sub-menu index="Bus">
         <template #title>
-          <el-icon><DataAnalysis /></el-icon>
+          <el-icon>
+            <img
+              src="./icons/project.png"
+              width="18px"
+              alt="JavaScript"
+            >
+          </el-icon>
           <span>商业案例</span>
         </template>
       </el-sub-menu>
@@ -151,8 +205,6 @@
     
   <script lang="ts" setup>
     import {
-      House,
-      DataAnalysis,
       Guide
     } from '@element-plus/icons-vue'
 
