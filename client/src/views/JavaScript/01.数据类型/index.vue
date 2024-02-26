@@ -357,12 +357,6 @@ str <span class="token keyword keyword-instanceof">instanceof</span> <span class
 </code></pre><p>在这个例子中，<code>strObj</code> 是一个对象，而不是一个字符串。这可能会导致一些问题，因为在很多情况下，我们希望的是一个字符串，而不是一个 String 对象。</p>
         </div>
       </el-tab-pane>
-      <el-tab-pane
-        label="流程图"
-        name="second"
-      >
-        Config
-      </el-tab-pane>
     </el-tabs>
   </div>
 </template>
